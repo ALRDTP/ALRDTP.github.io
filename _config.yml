@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Your Name / Site Title"
+title                    : "A la recherche du temps perdu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal"
